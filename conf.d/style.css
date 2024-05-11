@@ -1,0 +1,69 @@
+
+h1, h2, p {
+    text-align: center;
+}
+h1 {
+    font-size: 40px
+    ;
+}
+
+.header {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: beige;
+    color: aqua;
+    border-bottom: 4px solid #fdb347;
+}
+
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_h7Ub7WFrpZ5i3JfggvqY7upHuDWs5Tprg&s);
+}
+
+.menu {
+    background-color: bisque;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+.established {
+    font-style: italic;
+}
+hr{
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+    border-radius: 3px;
+}
+.item p {
+    display:inline-block
+}
+.dessert, .flavor {
+    width: 75%;
+    text-align: left;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -23px;
+}
+h1, h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color: black;
+}
+a:visited {
+    color: white;
+}
