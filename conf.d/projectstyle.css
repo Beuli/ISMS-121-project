@@ -45,28 +45,32 @@ nav ul li a:hover {
 
   .detel{
     margin-left: 8%;
-    margin-top: 13%;
+    margin-top: 10%;
   }
 
   .detel h1{
-    font-size: 50px;
-    color: #4e0523;
+    font-size: 45px;
+    color: #e64c8c;;
     margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   span{
-    color: #e209b3;
+    color: #c57db5;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
   .detel p{
-    color: #ff004c;
+    color: #ffffff;
     line-height: 22px;
+    font-size: 20px;
+    text-align: justify;
   }
 
   .detel a{
-    background: #52062c;
+    background: #8d043d;
     padding: 10px 18px;
-    text-decoration: none;
+    text-decoration: wavy;
     font-weight: bold;
     color: aliceblue;
     display: inline-block;
