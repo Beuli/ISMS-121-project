@@ -8,7 +8,6 @@
     position: relative;
     width: 100%;
     height: 100%;
-    background: rgba(248,221,240,255);
 } 
 
 nav{
@@ -18,6 +17,10 @@ nav{
     padding: 20px 0;
     align-items: center;
     justify-content: space-between;
+}
+
+nav img{
+  mix-blend-mode: multiply;
 }
 
 nav h1{
@@ -54,14 +57,14 @@ nav ul li a:hover {
     margin-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
   }
-
+   
   span{
     color: #c57db5;
     font-family: Arial, Helvetica, sans-serif;
   }
 
   .detel p{
-    color: #ffffff;
+    color: #1f0111;
     line-height: 22px;
     font-size: 20px;
     text-align: justify;
@@ -179,8 +182,7 @@ nav ul li a:hover {
   }
 
  body{
-  background-image: url(https://img.freepik.com/free-vector/futuristic-background-design_23-2148503793.jpg);
-  background-repeat: no-repeat;
+  background-image:url(https://static.vecteezy.com/system/resources/previews/007/238/548/non_2x/land-or-liquid-abstract-and-pattern-backgrounds-illustration-with-gradient-color-of-red-pink-this-background-is-suitable-for-presentation-poster-wallpaper-personal-website-ui-and-ux-experiences-free-photo.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -224,7 +226,10 @@ p{
   text-align: center;
   text-transform: uppercase;
   padding: 19px;
-  background-color: rgb(209, 170, 214);
-  color: rgb(106, 83, 126);
+  color: rgb(48, 4, 38);
   border-bottom: 15px rgb(58, 20, 2);
+}
+
+.pinimg{
+  mix-blend-mode: multiply;
 }
